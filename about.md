@@ -3,27 +3,46 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+# About Stochastic Insights
+
+Welcome to Stochastic Insights, a blog mainly focused on machine learning research and beyond.
+
+## Our Team
+
+### Yahya Emara
+<p>
+  Co-founder and author at Stochastic Insights.
+  <br>
+  Contact: <a href="mailto:{{ site.authors[0].email }}">{{ site.authors[0].email }}</a>
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+### Ahmad Khan
+<p>
+  Co-founder and author at Stochastic Insights.
+  <br>
+  Contact: <a href="mailto:{{ site.authors[1].email }}">{{ site.authors[1].email }}</a>
+</p>
 
-There are currently two themes built on Poole:
+## About the Blog
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+We aim to:
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+- Share knowledge and interest about topics mainly in ML, language, mathematics, and probabilistic modeling
+- Provide practical tutorials and implementation guides
 
-## Setup
 
-Some fun facts about the setup of this project include:
+Whether you're a beginner or an experienced professional in the field, we hope you find valuable content that helps you in your machine learning journey.
 
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
+Additionally, we hope to provide correct and accurate information. If there are any questions, mistakes, or improvements on our part, please contact us!
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
 
-Thanks for reading!
+
+## Technical Details
+
+This blog is built with:
+
+* [Jekyll](https://jekyllrb.com) - A static site generator
+* [Lanyon](http://lanyon.getpoole.com) - A Jekyll theme
+* Hosted on [GitHub Pages](https://pages.github.com)
+
+Thanks for visiting! For our newsletter: 

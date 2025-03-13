@@ -428,3 +428,9 @@ a.pagination-item:hover {
     border-bottom-right-radius: 4px;
   }
 }
+
+.read-more {
+  display: block;
+  margin-top: 1rem;
+  font-style: italic;
+}
