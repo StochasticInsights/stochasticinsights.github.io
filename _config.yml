@@ -1,29 +1,24 @@
-# Setup
 title:               Stochastic Insights
 tagline:             'ML Blogs'
 description:         'Discussing topics we are interested in the world of machine learning and math!'
-url:                 http://lanyon.getpoole.com
+url:                 https://stochasticinsights.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
 excerpt_separator: <!--excerpt-separator-->
-
 # Authors
 authors:
   - name: Yahya Emara
     email: ykmemara@gmail.com
   - name: Ahmad Khan
     email: ahkhan@ethz.ch
-
 # For compatibility with theme (primary contact)
 # author:
 #   name: Yahya Emara
 #   email: ykmemara@gmail.com
-
 # Gems
 plugins:
   - jekyll-paginate
-
 # Custom vars
 version:             1.0.0
 github:
